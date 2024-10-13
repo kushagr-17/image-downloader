@@ -1,5 +1,5 @@
 # Image-downloader
-This project helps the user to download limited and word specific images from the internet in bulk. The result would be mailed to email-ID in a RAR file.
+This project helps the user to download limited and word specific images from the internet in bulk. The result would be mailed to the user's email-ID in a RAR file.
 
 ![View](img_dloader.png)
 
